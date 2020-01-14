@@ -20,6 +20,7 @@ gem 'bootstrap-sass'
 gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'devise'
+gem 'acts_as_votable'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
