@@ -21,6 +21,8 @@ gem 'font-awesome-rails'
 gem 'jquery-rails'
 gem 'devise'
 gem 'acts_as_votable'
+gem 'simple_form'
+gem 'record_tag_helper'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
